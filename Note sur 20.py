@@ -7,7 +7,6 @@ La note de course est sur 14 points, il y 4 points sur le respect du temps annon
 
 """
 
-# Le code commence sous cette phrase
 
 from datetime import timedelta
 
