@@ -3,7 +3,7 @@
 Bonjour bienvenue sur mon programme pour calculer votre note en course de 3x500m selon votre temps total.
 
 Le barème est celui l'Education Nationale (de l'année 2019).
-La note de course est sur 14 points, il y 4 points sur le respect du temps annoncé et 2 points sur l'échauffement.
+La note de course est sur 14 points, puis il y à 4 points sur le respect du temps annoncé et 2 points sur l'échauffement.
 
 """
 
@@ -33,7 +33,7 @@ try:
     print('{} + {} + {} = {}'.format(td1, td2, td3, tf))
     print()
 
-    sexe = str(input("Es tu un Homme ou une Femme (écrit 'H' ou 'F') : "))
+    sexe = str(input("Es-tu un Homme ou une Femme (écrit 'H' ou 'F') : "))
 
     print(sexe)
     print()
